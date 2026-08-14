@@ -9,4 +9,6 @@ Suivi hebdomadaire de **BUZZ**, la plateforme de groupchat open-source lancée p
 
 ## Dernières entrées
 
+- **[14/08/2026](./2026-08-14.md)** — Semaine 3 post-lancement : réception stable mais scepticisme persistant, aucune révolution produit, hype intact, questions sécurité agent sans réponse.
+
 - **[29/07/2026](./2026-07-29.md)** — Semaine 1 post-lancement : produit viable mais incomplet, intérêt communautaire fort (7,600 stars GitHub en 3 jours), risques sécurité agent non résolus, freins UX significatifs.
