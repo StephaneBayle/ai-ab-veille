@@ -9,4 +9,6 @@ Suivi hebdomadaire de **BUZZ**, la plateforme de groupchat open-source lancée p
 
 ## Dernières entrées
 
+- **[18/09/2026](./2026-09-18.md)** — Semaine 8 post-lancement : croissance confirmée (33.6k stars GitHub, 4.4x depuis juillet), mobile RC en cours, approval gates pending, Nostr écosystème consolidé, substance progressive.
+
 - **[29/07/2026](./2026-07-29.md)** — Semaine 1 post-lancement : produit viable mais incomplet, intérêt communautaire fort (7,600 stars GitHub en 3 jours), risques sécurité agent non résolus, freins UX significatifs.
